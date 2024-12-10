@@ -2,7 +2,7 @@
 
 Esta atividade tem como objetivo apresentar a descrição dos 3 arquivos básicos de uma página web, de acordo com o conteúdo da disciplina de Desenvolvimento Web, do curso Talento Tech.
 
-## 🖥️ Descrição
+## Descrição
 
 O projeto consiste em 3 páginas:
 1. **HTML**: Explicação sobre a linguagem de marcação de hipertexto (HTML).
